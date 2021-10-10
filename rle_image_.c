@@ -3,7 +3,6 @@
 #include <stdlib.h>
 
 // Alaaddin Goktug AYAR
-// Yildiz Technical University Computer Engineering Student
 
 struct pgm_file{
 	int width;
